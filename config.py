@@ -20,11 +20,11 @@ kef2 = 1.8
 kefzalupa = 1.85
 kefsuefa = 2.5
 kefbasket = 1.3
-max_actions = 0
-timeout = 20
+max_actions = 4
+timeout = 2
 wheelscum = 0
 CHAT_LINK = "https://t.me/+9w5DEzQPHAIzYzcy"
-CHAT_MESSAGE_INTERVAL = 15
+CHAT_MESSAGE_INTERVAL = 1200
 OFFLINE_DOLLAR = 92
 ERROR_CHAT_ID = -1002207071413
 
