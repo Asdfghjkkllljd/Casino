@@ -1,9 +1,9 @@
 CHANNEL_ID = -1002243436081  # Айди канала
 INVOICE_LINK = "t.me/send?start=IVMuLsR3aKz4"  #  Линк на инвойс
 RULES_LINK = "https://telegra.ph/Polzovatelskoe-soglashenie-Cart-Casino-03-14"  #  Линк на правила
-NEWS_LINK = "https://t.me/+zJ8rp4z5HNsyYTEy"  #  Линк польз. соглашения
+NEWS_LINK = "https://t.me/+k42zVBd8Iz41ZDEy"  #  Линк польз. соглашения
 SUPPORT_LINK = "https://t.me/SCAMUNIZDEL"  #  Линк саппорта
-FAQ_LINK = "https://t.me/+kryvyhComxQ2NDBi"
+FAQ_LINK = "https://t.me/+YXO5t3AYIRgxZTdi"
 CRYPTO_PAY_TOKEN = "248079:AAuo2tuRJ9tuhslTxMdb7lWfaI2M4R27H1p"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
 BOT_TOKEN = "7491363588:AAGbYrtE5F092eWjwJERltzPZw6Je_0RXJI"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
 SCAM_SUM = 5
