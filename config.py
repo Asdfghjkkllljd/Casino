@@ -1,19 +1,19 @@
-CHANNEL_ID = -1002039929071  # Айди канала
-INVOICE_LINK = "http://t.me/send?start=IVghnKbSJlTJ"  #  Линк на инвойс
+CHANNEL_ID = -1002243436081  # Айди канала
+INVOICE_LINK = "t.me/send?start=IVMuLsR3aKz4"  #  Линк на инвойс
 RULES_LINK = "https://telegra.ph/Polzovatelskoe-soglashenie-Cart-Casino-03-14"  #  Линк на правила
 NEWS_LINK = "https://t.me/+zJ8rp4z5HNsyYTEy"  #  Линк польз. соглашения
-SUPPORT_LINK = "http://t.me/send?start=IVghnKbSJlTJ"  #  Линк саппорта
+SUPPORT_LINK = "https://t.me/SCAMUNIZDEL"  #  Линк саппорта
 FAQ_LINK = "https://t.me/+kryvyhComxQ2NDBi"
-CRYPTO_PAY_TOKEN = "227313:AAxv17ZdLN7lQSuVFquhJvFFpDurCwWSuzQ"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
-BOT_TOKEN = "6634592517:AAH_1XUM4Nax3_Bn8EXedNATL9r-tFHKMJU"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
+CRYPTO_PAY_TOKEN = "248079:AAuo2tuRJ9tuhslTxMdb7lWfaI2M4R27H1p"  #  Токен от CryptoPay фулл откат сделал, ща посмотрим
+BOT_TOKEN = "7491363588:AAGbYrtE5F092eWjwJERltzPZw6Je_0RXJI"  #  Токен бота че тупой, не я вставлял ранее, я говорю фулл скрипт откатитл, до изменений
 SCAM_SUM = 5
 SCAM_SUM_WHEEL = 10
 SCAM_WHEEL = 0
-ADMIN_ID = 5291285089  # Айди админа
-ADMIN_SD = 5914588860
+ADMIN_ID = 992835747  # Айди админа
+ADMIN_SD = 992835747
 NEWS_ID = -1001998611463  # Айди канала новостей
-VIPLAT_ID = -1002059587052
-min_vivod = 1.1
+VIPLAT_ID = -1002226990800
+min_vivod = 0.5
 xamount_action = False
 kef = 2.8
 kef2 = 1.8
@@ -23,7 +23,7 @@ kefbasket = 1.3
 max_actions = 4
 timeout = 20
 wheelscum = 0
-CHAT_LINK = "https://t.me/+sfeveMP0mx8wNGNi"
+CHAT_LINK = "https://t.me/+9w5DEzQPHAIzYzcy"
 CHAT_MESSAGE_INTERVAL = 1200
 OFFLINE_DOLLAR = 92
 ERROR_CHAT_ID = -1002207071413
