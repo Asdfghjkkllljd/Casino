@@ -1,5 +1,5 @@
 CHANNEL_ID = -1002243436081  # Айди канала
-INVOICE_LINK = "t.me/send?start=IVMuLsR3aKz4"  #  Линк на инвойс
+INVOICE_LINK = "t.me/send?start=IVPw2xtBjEgx"  #  Линк на инвойс
 RULES_LINK = "https://telegra.ph/Polzovatelskoe-soglashenie-Cart-Casino-03-14"  #  Линк на правила
 NEWS_LINK = "https://t.me/+k42zVBd8Iz41ZDEy"  #  Линк польз. соглашения
 SUPPORT_LINK = "https://t.me/SCAMUNIZDEL"  #  Линк саппорта
